@@ -1,0 +1,110 @@
+[
+
+  {
+
+    "id": 145,
+
+    "name": "Halo-Halo de Iloko",
+
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place1.jpg",
+
+    "price": 164,
+
+    "priceCurrency": "PHP",
+
+    "lat": 16.6167,
+
+    "lng": 120.3197
+
+  },
+
+  {
+
+    "id": 148
+    "name": "Pugad Resort, Pugo La Union",
+
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place2.jpg",
+
+    "price": 200,
+
+    "priceCurrency": "PHP",
+
+    "lat": 16.2833,
+
+    "lng": 120.4833
+
+  },
+
+  {
+
+    "id": 201,
+
+    "name": "Bahay na Bato, Luna La Union",
+
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place3.jpg",
+
+    "price": 150,
+
+    "priceCurrency": "PHP",
+
+    "lat": 16.8472,
+
+    "lng": 120.3517
+
+  },
+
+  {
+
+    "id": 205,
+
+    "name": "Marand Resort, Bauang La Union",
+
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place4.jpg",
+
+    "price": 115,
+
+    "priceCurrency": "PHP",
+
+    "lat": 16.5264,
+
+    "lng": 120.3294
+
+  },
+
+  {
+
+    "id": 210,
+
+    "name": "Splash Wave Resort, Pugo La Union",
+
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place5.jpg",
+
+    "price": 135,
+
+    "priceCurrency": "PHP",
+
+    "lat": 16.3188,
+
+    "lng": 120.4687
+
+  },
+
+  {
+
+    "id": 211,
+
+    "name": "Kahuna Resort, San Juan La Union",
+
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place6.jpg",
+
+    "price": 90,
+
+    "priceCurrency": "PHP",
+
+    "lat": 16.6583,
+
+    "lng": 120.3216
+
+  }
+
+]
