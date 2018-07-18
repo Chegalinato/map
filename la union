@@ -12,17 +12,16 @@
 
     "priceCurrency": "PHP",
 
-    "lat": 48.884211,
+    "lat": 16.6167,
 
-    "lng": 2.346890
+    "lng": 120.3197
 
   },
 
   {
 
-    "id": 148,
-
-    "name": "Pugad Resort",
+    "id": 148
+    "name": "Pugad Resort, Pugo La Union",
 
     "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place2.jpg",
 
@@ -30,9 +29,9 @@
 
     "priceCurrency": "PHP",
 
-    "lat": 48.885707,
+    "lat": 16.2833,
 
-    "lng": 2.343543
+    "lng": 120.4833
 
   },
 
@@ -48,9 +47,9 @@
 
     "priceCurrency": "PHP",
 
-    "lat": 48.885312,
+    "lat": 16.8472,
 
-    "lng": 2.341225
+    "lng": 120.3517
 
   },
 
@@ -58,7 +57,7 @@
 
     "id": 205,
 
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Marand Resort, Bauang La Union",
 
     "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place4.jpg",
 
@@ -66,9 +65,9 @@
 
     "priceCurrency": "PHP",
 
-    "lat": 48.881840,
+    "lat": 16.5264,
 
-    "lng": 2.343371
+    "lng": 120.3294
 
   },
 
@@ -76,7 +75,7 @@
 
     "id": 210,
 
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Splash Wave Resort, Pugo La Union",
 
     "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place5.jpg",
 
@@ -84,9 +83,9 @@
 
     "priceCurrency": "PHP",
 
-    "lat": 48.888839,
+    "lat": 16.3188,
 
-    "lng": 2.339208
+    "lng": 120.4687
 
   },
 
@@ -94,17 +93,17 @@
 
     "id": 211,
 
-    "name": "Bohemian and Chic in Paris",
+    "name": "Kahuna Resort, San Juan La Union",
 
-    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place1.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place6.jpg",
 
     "price": 90,
 
     "priceCurrency": "PHP",
 
-    "lat": 48.827855,
+    "lat": 16.6583,
 
-    "lng": 2.350774
+    "lng": 120.3216
 
   }
 
