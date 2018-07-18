@@ -6,7 +6,7 @@
 
     "name": "Halo-Halo de Iloko",
 
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/placee/place1.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place1.jpg",
 
     "price": 164,
 
@@ -24,7 +24,7 @@
 
     "name": "Pugad Resort",
 
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/placee/place2.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place2.jpg",
 
     "price": 200,
 
@@ -42,11 +42,11 @@
 
     "name": "Bahay na Bato, Luna La Union",
 
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/place3.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place3.jpg",
 
     "price": 150,
 
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
 
     "lat": 48.885312,
 
@@ -60,11 +60,11 @@
 
     "name": "Splendide terrasse vue imprenable",
 
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place4.jpg",
 
     "price": 115,
 
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
 
     "lat": 48.881840,
 
@@ -78,11 +78,11 @@
 
     "name": "Superbe vue à 2 min du Sacré Coeur",
 
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place5.jpg",
 
     "price": 135,
 
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
 
     "lat": 48.888839,
 
@@ -96,11 +96,11 @@
 
     "name": "Bohemian and Chic in Paris",
 
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/placee/place1.jpg",
 
     "price": 90,
 
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
 
     "lat": 48.827855,
 
