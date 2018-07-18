@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Kahuna Resort",
-    "imageUrl": "https://github.com/Chegalinato/map/blob/places/images/place6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
     "price": 300,
     "priceCurrency": "PHP",
     "lat": 16.6583,
