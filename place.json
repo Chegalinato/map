@@ -52,5 +52,14 @@
     "price": 200,
     "lat": 16.6583,
     "lng": 120.3216
+  },
+    {
+    "id": 211,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place7.jpg",
+    "priceCurrency": "PHP",
+    "price": 0,
+    "lat": 16.6167,
+    "lng": 120.3167
   }
 ]
