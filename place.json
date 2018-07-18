@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Pugad Resort",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.2833,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
     "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.8472,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Marand Resort",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place4.jpg",
     "price": 150,
     "priceCurrency": "PHP",
     "lat": 16.5264,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
     "price": 250,
     "priceCurrency": "PHP",
     "lat": 16.3188,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://github.com/Chegalinato/map/blob/places/images/place6.jpg",
     "price": 300,
     "priceCurrency": "PHP",
     "lat": 16.6583,
