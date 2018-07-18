@@ -3,8 +3,8 @@
     "id": 145,
     "name": "Halo Halo de Iloko",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
-    "price": 164,
     "priceCurrency": "PHP",
+    "price": 120,
     "lat": 16.6167,
     "lng": 120.3197
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Pugad Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
-    "price": 200,
     "priceCurrency": "PHP",
+    "price": 200,
     "lat": 16.2833,
     "lng": 120.4833
   },
@@ -21,8 +21,8 @@
     "id": 201,
     "name": "Bahay na Bato",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
-    "price": 100,
     "priceCurrency": "PHP",
+    "price": 50,
     "lat": 16.8472,
     "lng": 120.3517
   },
@@ -30,8 +30,8 @@
     "id": 205,
     "name": "Marand Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place4.jpg",
-    "price": 150,
     "priceCurrency": "PHP",
+    "price": 150,
     "lat": 16.5264,
     "lng": 120.3294
   },
@@ -39,8 +39,8 @@
     "id": 210,
     "name": "Splash Wave Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
-    "price": 250,
     "priceCurrency": "PHP",
+    "price": 150,
     "lat": 16.3188,
     "lng": 120.4687
   },
@@ -48,8 +48,8 @@
     "id": 211,
     "name": "Kahuna Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
-    "price": 300,
     "priceCurrency": "PHP",
+    "price": 200,
     "lat": 16.6583,
     "lng": 120.3216
   }
