@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Halo Halo de Iloko",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place8.jpg",
     "priceCurrency": "₱",
     "price": 120,
-    "lat": 16.6167,
-    "lng": 120.3197
+    "lat": 16.6172,
+    "lng": 120.3155
   },
   {
     "id": 148,
