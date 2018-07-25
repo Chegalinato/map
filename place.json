@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Banaue Rice Terraces",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/1a.jpg",
     "priceCurrency": "₱",
     "price": 214.2 km,
     "lat": 16.6167,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/2a.jpg",
     "priceCurrency": "₱",
     "price": 707.7 km,
     "lat": 16.2833,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Chocolate Hills",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/3a.jpg",
     "priceCurrency": "₱",
     "price": 1,191.0 km,
     "lat": 16.8472,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Puerto Princesa Underground River",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/4a.jpg",
     "priceCurrency": "₱",
     "price": 1,069.3 km,
     "lat": 16.5264,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Puerto Galera",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/5a.jpg",
     "priceCurrency": "PHP",
     "price": 404.9 km,
     "lat": 16.3188,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Malapascua Island",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/6a.jpg",
     "priceCurrency": "₱",
     "price": 712 km,
     "lat": 16.6583,
